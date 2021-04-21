@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.4.5
 // @description  Bypass links that cannot be bypassed by Universal Bypass
-// @author       FireMasterK
+// @author       
 // @match        *://*.linkvertise.com/*
 // @match        *://*.linkvertise.net/*
 // @match        *://*.linkvertise.download/*
